@@ -4,12 +4,6 @@ An interactive financial analytics dashboard built with **Tableau Desktop**, con
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Financials Dashboard](Dashboard.png)
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -85,6 +79,10 @@ A detailed country-level gross sales breakdown complementing the map view.
 
 ---
 
+## Dashboard Screenshots (Click to enlarge) :
+
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Dashboard.png">
+---
 ## 🚀 How to Use
 
 1. Clone or download this repository.
@@ -107,12 +105,9 @@ The data is sourced from a **Microsoft Excel file** (`Financials.xlsx`) containi
 
 ---
 
-## 👤 Author
-
-Built as a Tableau data visualization project to practice financial analytics and dashboard design.
-
----
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
+## 👨‍💼 Author
+Mohamed Nofal
+Data & Business Analyst  
+Transforming raw data into actionable business insights.
+> Built with ❤️ using Power BI
+> Feel free to ⭐ the repo if you found it useful!
