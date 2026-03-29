@@ -80,9 +80,8 @@ A detailed country-level gross sales breakdown complementing the map view.
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Discount%20Band%20Distribution.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/KPIS.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Profit%20by%20Month.png">
+
 ---
-
-
 
 ## 🛠️ Tools & Technologies
 
