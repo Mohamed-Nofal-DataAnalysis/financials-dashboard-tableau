@@ -67,15 +67,7 @@ A horizontal bar chart ranking products by units sold:
 ### 6. Gross Sales by Country (Bar/Detail)
 A detailed country-level gross sales breakdown complementing the map view.
 
----
 
-## 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|------|---------|
-| **Tableau Desktop** | Dashboard design & visualization |
-| **Microsoft Excel (.xlsx)** | Data source |
-| **Mapbox / OpenStreetMap** | Geographic map layer |
 
 ---
 
@@ -84,10 +76,21 @@ A detailed country-level gross sales breakdown complementing the map view.
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Dashboard.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Gross%20Sales%20by%20Country.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Sales%20by%20Segment.png">
-<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Sales%20by%20Segment.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Units%20Sold%20by%20Product.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Discount%20Band%20Distribution.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/KPIS.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Profit%20by%20Month.png">
+---
+
+
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| **Tableau Desktop** | Dashboard design & visualization |
+| **Microsoft Excel (.xlsx)** | Data source |
+| **Mapbox / OpenStreetMap** | Geographic map layer |
 ---
 ## 🚀 How to Use
 
