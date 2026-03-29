@@ -82,6 +82,7 @@ A detailed country-level gross sales breakdown complementing the map view.
 ## Dashboard Screenshots (Click to enlarge) :
 
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Dashboard.png">
+
 ---
 ## 🚀 How to Use
 
