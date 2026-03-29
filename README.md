@@ -82,7 +82,12 @@ A detailed country-level gross sales breakdown complementing the map view.
 ## Dashboard Screenshots (Click to enlarge) :
 
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Dashboard.png">
-
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Gross%20Sales%20by%20Country.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Sales%20by%20Segment.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Sales%20by%20Segment.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Units%20Sold%20by%20Product.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Discount%20Band%20Distribution.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/financials-dashboard-tableau/blob/main/Profit%20by%20Month.png">
 ---
 ## 🚀 How to Use
 
